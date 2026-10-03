@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Foundry_Model_sample"
+		},
+		{
+			"path": "../simple_foundry_rag"
+		}
+	],
+	"settings": {}
+}
